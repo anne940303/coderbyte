@@ -1,2 +1,2 @@
-# coderbyte
+# Coderbyte
 coderbyte by Ruby Language
